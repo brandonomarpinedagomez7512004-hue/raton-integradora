@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 2347f60b037ea784fb72d9704d901b31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7151800938512386295
+    second: pixor-library-cheese-selout-32px-8-sides_0
+  - first:
+      213: 23347845414341171
+    second: pixor-library-cheese-selout-32px-8-sides_1
+  - first:
+      213: -9105809467940840259
+    second: pixor-library-cheese-selout-32px-8-sides_2
+  - first:
+      213: -6867581564729464234
+    second: pixor-library-cheese-selout-32px-8-sides_3
+  - first:
+      213: -4360765612689464368
+    second: pixor-library-cheese-selout-32px-8-sides_4
+  - first:
+      213: -4281319429364894584
+    second: pixor-library-cheese-selout-32px-8-sides_5
+  - first:
+      213: -5093838421341789881
+    second: pixor-library-cheese-selout-32px-8-sides_6
+  - first:
+      213: 7218614608471319299
+    second: pixor-library-cheese-selout-32px-8-sides_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixor-library-cheese-selout-32px-8-sides_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8065ccf0d404360800000000000000
+      internalID: 7151800938512386295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixor-library-cheese-selout-32px-8-sides_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a4130edb2f25000800000000000000
+      internalID: 23347845414341171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixor-library-cheese-selout-32px-8-sides_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 166
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc5ff6988aa1a180800000000000000
+      internalID: -9105809467940840259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixor-library-cheese-selout-32px-8-sides_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6740f3f271b0a0800000000000000
+      internalID: -6867581564729464234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixor-library-cheese-selout-32px-8-sides_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e7e297c27b73c0800000000000000
+      internalID: -4360765612689464368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixor-library-cheese-selout-32px-8-sides_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8843ab299a2b594c0800000000000000
+      internalID: -4281319429364894584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixor-library-cheese-selout-32px-8-sides_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741afa0b1fc0f49b0800000000000000
+      internalID: -5093838421341789881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixor-library-cheese-selout-32px-8-sides_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303e0649dbbad2460800000000000000
+      internalID: 7218614608471319299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixor-library-cheese-selout-32px-8-sides_0: 7151800938512386295
+      pixor-library-cheese-selout-32px-8-sides_1: 23347845414341171
+      pixor-library-cheese-selout-32px-8-sides_2: -9105809467940840259
+      pixor-library-cheese-selout-32px-8-sides_3: -6867581564729464234
+      pixor-library-cheese-selout-32px-8-sides_4: -4360765612689464368
+      pixor-library-cheese-selout-32px-8-sides_5: -4281319429364894584
+      pixor-library-cheese-selout-32px-8-sides_6: -5093838421341789881
+      pixor-library-cheese-selout-32px-8-sides_7: 7218614608471319299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
