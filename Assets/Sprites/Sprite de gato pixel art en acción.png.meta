@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 794a26b1de47da543ba2c83d4d66e047
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5164103401072942420
+    second: "Sprite de gato pixel art en acci\xF3n_0"
+  - first:
+      213: 4838084842460102938
+    second: "Sprite de gato pixel art en acci\xF3n_1"
+  - first:
+      213: -5647607292348627409
+    second: "Sprite de gato pixel art en acci\xF3n_2"
+  - first:
+      213: -320039566448220199
+    second: "Sprite de gato pixel art en acci\xF3n_3"
+  - first:
+      213: -6923471127695035115
+    second: "Sprite de gato pixel art en acci\xF3n_4"
+  - first:
+      213: 4547293325645137269
+    second: "Sprite de gato pixel art en acci\xF3n_5"
+  - first:
+      213: 7913976026803701984
+    second: "Sprite de gato pixel art en acci\xF3n_6"
+  - first:
+      213: 5697912139296549621
+    second: "Sprite de gato pixel art en acci\xF3n_7"
+  - first:
+      213: 2450901481802502215
+    second: "Sprite de gato pixel art en acci\xF3n_8"
+  - first:
+      213: -2286792382449535587
+    second: "Sprite de gato pixel art en acci\xF3n_9"
+  - first:
+      213: 4142191804530004127
+    second: "Sprite de gato pixel art en acci\xF3n_10"
+  - first:
+      213: -7483321581951241818
+    second: "Sprite de gato pixel art en acci\xF3n_11"
+  - first:
+      213: -4629969101563807235
+    second: "Sprite de gato pixel art en acci\xF3n_12"
+  - first:
+      213: -2069248026109102989
+    second: "Sprite de gato pixel art en acci\xF3n_13"
+  - first:
+      213: -4797306760077998796
+    second: "Sprite de gato pixel art en acci\xF3n_14"
+  - first:
+      213: -9106435996619907214
+    second: "Sprite de gato pixel art en acci\xF3n_15"
+  - first:
+      213: 7836156436952617847
+    second: "Sprite de gato pixel art en acci\xF3n_16"
+  - first:
+      213: -8161386069716771879
+    second: "Sprite de gato pixel art en acci\xF3n_17"
+  - first:
+      213: 8843910502934045731
+    second: "Sprite de gato pixel art en acci\xF3n_18"
+  - first:
+      213: -5917394445532181673
+    second: "Sprite de gato pixel art en acci\xF3n_19"
+  - first:
+      213: -905205781237593492
+    second: "Sprite de gato pixel art en acci\xF3n_20"
+  - first:
+      213: 5142192943051086732
+    second: "Sprite de gato pixel art en acci\xF3n_21"
+  - first:
+      213: 8604092344119865273
+    second: "Sprite de gato pixel art en acci\xF3n_22"
+  - first:
+      213: 1472204165141697267
+    second: "Sprite de gato pixel art en acci\xF3n_23"
+  - first:
+      213: 6407667338996154076
+    second: "Sprite de gato pixel art en acci\xF3n_24"
+  - first:
+      213: 6576586407500012357
+    second: "Sprite de gato pixel art en acci\xF3n_25"
+  - first:
+      213: 3915082055622991139
+    second: "Sprite de gato pixel art en acci\xF3n_26"
+  - first:
+      213: 6040036788993090470
+    second: "Sprite de gato pixel art en acci\xF3n_27"
+  - first:
+      213: 1998772709435193933
+    second: "Sprite de gato pixel art en acci\xF3n_28"
+  - first:
+      213: -9890875429684396
+    second: "Sprite de gato pixel art en acci\xF3n_29"
+  - first:
+      213: -5264115325718569611
+    second: "Sprite de gato pixel art en acci\xF3n_30"
+  - first:
+      213: 4793887098744430168
+    second: "Sprite de gato pixel art en acci\xF3n_31"
+  - first:
+      213: 1144408850834133821
+    second: "Sprite de gato pixel art en acci\xF3n_32"
+  - first:
+      213: -5354664058087483411
+    second: "Sprite de gato pixel art en acci\xF3n_33"
+  - first:
+      213: -2417873871600731169
+    second: "Sprite de gato pixel art en acci\xF3n_34"
+  - first:
+      213: 5021836035359235162
+    second: "Sprite de gato pixel art en acci\xF3n_35"
+  - first:
+      213: -262994126910216679
+    second: "Sprite de gato pixel art en acci\xF3n_36"
+  - first:
+      213: 8988445508776201604
+    second: "Sprite de gato pixel art en acci\xF3n_37"
+  - first:
+      213: -3655852447777828097
+    second: "Sprite de gato pixel art en acci\xF3n_38"
+  - first:
+      213: -1468720675830088368
+    second: "Sprite de gato pixel art en acci\xF3n_39"
+  - first:
+      213: 9077248326870707866
+    second: "Sprite de gato pixel art en acci\xF3n_40"
+  - first:
+      213: -6424852285434275705
+    second: "Sprite de gato pixel art en acci\xF3n_41"
+  - first:
+      213: -1184948404790035107
+    second: "Sprite de gato pixel art en acci\xF3n_42"
+  - first:
+      213: 8188615736605103990
+    second: "Sprite de gato pixel art en acci\xF3n_43"
+  - first:
+      213: -7408696158431987714
+    second: "Sprite de gato pixel art en acci\xF3n_44"
+  - first:
+      213: 5353445354705095894
+    second: "Sprite de gato pixel art en acci\xF3n_45"
+  - first:
+      213: 6698868330008062580
+    second: "Sprite de gato pixel art en acci\xF3n_46"
+  - first:
+      213: -470146579794788787
+    second: "Sprite de gato pixel art en acci\xF3n_47"
+  - first:
+      213: -1337993390285408968
+    second: "Sprite de gato pixel art en acci\xF3n_48"
+  - first:
+      213: -9057319913691975495
+    second: "Sprite de gato pixel art en acci\xF3n_49"
+  - first:
+      213: 8166029203379341572
+    second: "Sprite de gato pixel art en acci\xF3n_50"
+  - first:
+      213: 8995271298566899435
+    second: "Sprite de gato pixel art en acci\xF3n_51"
+  - first:
+      213: 4508461230708209765
+    second: "Sprite de gato pixel art en acci\xF3n_52"
+  - first:
+      213: 6470957115827584985
+    second: "Sprite de gato pixel art en acci\xF3n_53"
+  - first:
+      213: -380508467684552113
+    second: "Sprite de gato pixel art en acci\xF3n_54"
+  - first:
+      213: 3605143227187959252
+    second: "Sprite de gato pixel art en acci\xF3n_55"
+  - first:
+      213: -1831543654243541468
+    second: "Sprite de gato pixel art en acci\xF3n_56"
+  - first:
+      213: 6681432327819203916
+    second: "Sprite de gato pixel art en acci\xF3n_57"
+  - first:
+      213: 4504550770981371566
+    second: "Sprite de gato pixel art en acci\xF3n_58"
+  - first:
+      213: -7036894713919408469
+    second: "Sprite de gato pixel art en acci\xF3n_59"
+  - first:
+      213: -6092466456993669249
+    second: "Sprite de gato pixel art en acci\xF3n_60"
+  - first:
+      213: 3314770703302508382
+    second: "Sprite de gato pixel art en acci\xF3n_61"
+  - first:
+      213: -5772311622223148475
+    second: "Sprite de gato pixel art en acci\xF3n_62"
+  - first:
+      213: 3971474148952724636
+    second: "Sprite de gato pixel art en acci\xF3n_63"
+  - first:
+      213: -2758772853321353344
+    second: "Sprite de gato pixel art en acci\xF3n_64"
+  - first:
+      213: -8838346848448781933
+    second: "Sprite de gato pixel art en acci\xF3n_65"
+  - first:
+      213: -8997123904933523836
+    second: "Sprite de gato pixel art en acci\xF3n_66"
+  - first:
+      213: -9215266861557638223
+    second: "Sprite de gato pixel art en acci\xF3n_67"
+  - first:
+      213: 3648233386688990031
+    second: "Sprite de gato pixel art en acci\xF3n_68"
+  - first:
+      213: 6821059319322924741
+    second: "Sprite de gato pixel art en acci\xF3n_69"
+  - first:
+      213: -6625509860747323552
+    second: "Sprite de gato pixel art en acci\xF3n_70"
+  - first:
+      213: 1211882314162548314
+    second: "Sprite de gato pixel art en acci\xF3n_71"
+  - first:
+      213: 8478488804525914303
+    second: "Sprite de gato pixel art en acci\xF3n_72"
+  - first:
+      213: -8296789285275414
+    second: "Sprite de gato pixel art en acci\xF3n_73"
+  - first:
+      213: -2032612791090450394
+    second: "Sprite de gato pixel art en acci\xF3n_74"
+  - first:
+      213: -1557327109203176271
+    second: "Sprite de gato pixel art en acci\xF3n_75"
+  - first:
+      213: -2416628969443434847
+    second: "Sprite de gato pixel art en acci\xF3n_76"
+  - first:
+      213: -1335155143867675884
+    second: "Sprite de gato pixel art en acci\xF3n_77"
+  - first:
+      213: -6079950412351833827
+    second: "Sprite de gato pixel art en acci\xF3n_78"
+  - first:
+      213: -8942782662008620368
+    second: "Sprite de gato pixel art en acci\xF3n_79"
+  - first:
+      213: -8401148933336885126
+    second: "Sprite de gato pixel art en acci\xF3n_80"
+  - first:
+      213: -4578217991321257531
+    second: "Sprite de gato pixel art en acci\xF3n_81"
+  - first:
+      213: -3798489817173021369
+    second: "Sprite de gato pixel art en acci\xF3n_82"
+  - first:
+      213: -1350073756012417780
+    second: "Sprite de gato pixel art en acci\xF3n_83"
+  - first:
+      213: 7739879474408522925
+    second: "Sprite de gato pixel art en acci\xF3n_84"
+  - first:
+      213: -7820795327966521922
+    second: "Sprite de gato pixel art en acci\xF3n_85"
+  - first:
+      213: 4577686728041940379
+    second: "Sprite de gato pixel art en acci\xF3n_86"
+  - first:
+      213: 5142114699179852257
+    second: "Sprite de gato pixel art en acci\xF3n_87"
+  - first:
+      213: 6458529791138512594
+    second: "Sprite de gato pixel art en acci\xF3n_88"
+  - first:
+      213: 3353185795904360770
+    second: "Sprite de gato pixel art en acci\xF3n_89"
+  - first:
+      213: -3482772686000665429
+    second: "Sprite de gato pixel art en acci\xF3n_90"
+  - first:
+      213: 6976925088644287240
+    second: "Sprite de gato pixel art en acci\xF3n_91"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sprite de gato pixel art en acci\xF3n_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dd654cea49aa740800000000000000
+      internalID: 5164103401072942420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato pixel art en acci\xF3n_1"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11490ce784542340800000000000000
+      internalID: 4838084842460102938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato pixel art en acci\xF3n_2"
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2687a4071baf91b0800000000000000
+      internalID: -5647607292348627409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato pixel art en acci\xF3n_3"
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a8cfb5bdfe8bf0800000000000000
+      internalID: -320039566448220199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato pixel art en acci\xF3n_4"
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515701501b3eaef90800000000000000
+      internalID: -6923471127695035115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sprite de gato pixel art en acci\xF3n_5"
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 362
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5754594ef2b3b1f30800000000000000
+      internalID: 4547293325645137269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c7878b0bf40e7848865eb76cdce7acd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":362.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Sprite de gato pixel art en acci\xF3n_0": 5164103401072942420
+      "Sprite de gato pixel art en acci\xF3n_1": 4838084842460102938
+      "Sprite de gato pixel art en acci\xF3n_2": -5647607292348627409
+      "Sprite de gato pixel art en acci\xF3n_3": -320039566448220199
+      "Sprite de gato pixel art en acci\xF3n_4": -6923471127695035115
+      "Sprite de gato pixel art en acci\xF3n_5": 4547293325645137269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
